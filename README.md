@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding on different levels of complication  
 - 🌱 I’m currently learning to code with HTML and CSS
 - 💞️ I’m looking to collaborate on implementing code to functioning website
-- 📫 How to reach me-yetuns4ng@gmail.com
+- 📫 How to reach me yetuns4ng@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am new to coding at the time I wrote this
 
